@@ -4,9 +4,7 @@ A VSCode Extension the will turn your `File.extension` into `File/index.extensio
 
 ## Demo
 
-<video width="320" height="240">
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+![](demo.mov)
 
 ## Known Issues
 
