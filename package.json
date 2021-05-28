@@ -4,6 +4,10 @@
 	"publisher": "Jamyth",
 	"description": "convert MyCode.ts to MyCode/index.ts",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jamyth/JFolderize"	
+	},
 	"engines": {
 		"vscode": "^1.56.0"
 	},
