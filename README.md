@@ -4,7 +4,7 @@ A VSCode Extension the will turn your `File.extension` into `File/index.extensio
 
 ## Demo
 
-![](demo.mov)
+![](demo.gif)
 
 ## Known Issues
 
